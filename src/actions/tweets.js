@@ -26,7 +26,7 @@ export function handleToggleTweet(info) {
     return saveLikeToggle(info).catch((e) => {
       console.warn("Error in handleToggleTweet: ", e);
       dispatch(toggleTweet(info));
-      alert("THere was an error liking the tweet. Please try again");
+      alert("There was an error liking the tweet. Please try again");
     });
   };
 }
