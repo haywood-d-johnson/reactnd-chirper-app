@@ -7,7 +7,7 @@ Commits in this repository correspond to videos in the program.
 ## Technologies Used
 
 - [React](https://www.npmjs.com/package/react)
-- [React-Router](https://www.npmjs.com/package/react-router)
+- [React-Router-DOM](https://www.npmjs.com/package/react-router-dom)
 - [Redux](https://www.npmjs.com/package/redux)
 - [React-Redux](https://www.npmjs.com/package/react-redux)
 - [React-Redux-Loading](https://www.npmjs.com/package/react-redux-loading)
